@@ -1,6 +1,8 @@
 # Sintaxis y Semántica de los Lenguajes
-• K2052
-• 2024
-• 215.403-1
-• Koirach Caceres
-• Matias Agustin
+
+## Información Personal
+- **Curso:** K2052
+- **Año de cursada:** 2024
+- **Legajo:** 215.403-1
+- **Apellido:** Koirach Caceres
+- **Nombre:** Matias Agustin
